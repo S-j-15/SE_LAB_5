@@ -1,0 +1,27 @@
+************* Module inventory_system_fixed
+inventory_system_fixed.py:31:0: C0303: Trailing whitespace (trailing-whitespace)
+inventory_system_fixed.py:34:0: C0303: Trailing whitespace (trailing-whitespace)
+inventory_system_fixed.py:39:0: C0303: Trailing whitespace (trailing-whitespace)
+inventory_system_fixed.py:43:0: C0303: Trailing whitespace (trailing-whitespace)
+inventory_system_fixed.py:64:0: C0303: Trailing whitespace (trailing-whitespace)
+inventory_system_fixed.py:169:0: C0303: Trailing whitespace (trailing-whitespace)
+inventory_system_fixed.py:173:0: C0303: Trailing whitespace (trailing-whitespace)
+inventory_system_fixed.py:176:0: C0303: Trailing whitespace (trailing-whitespace)
+inventory_system_fixed.py:180:0: C0303: Trailing whitespace (trailing-whitespace)
+inventory_system_fixed.py:184:0: C0303: Trailing whitespace (trailing-whitespace)
+inventory_system_fixed.py:189:0: C0303: Trailing whitespace (trailing-whitespace)
+inventory_system_fixed.py:192:0: C0303: Trailing whitespace (trailing-whitespace)
+inventory_system_fixed.py:197:0: C0304: Final newline missing (missing-final-newline)
+inventory_system_fixed.py:37:8: W1203: Use lazy % formatting in logging functions (logging-fstring-interpolation)
+inventory_system_fixed.py:41:8: W1203: Use lazy % formatting in logging functions (logging-fstring-interpolation)
+inventory_system_fixed.py:68:12: W1203: Use lazy % formatting in logging functions (logging-fstring-interpolation)
+inventory_system_fixed.py:96:4: W0603: Using the global statement (global-statement)
+inventory_system_fixed.py:100:8: W1203: Use lazy % formatting in logging functions (logging-fstring-interpolation)
+inventory_system_fixed.py:102:8: W1203: Use lazy % formatting in logging functions (logging-fstring-interpolation)
+inventory_system_fixed.py:105:8: W1203: Use lazy % formatting in logging functions (logging-fstring-interpolation)
+inventory_system_fixed.py:121:8: W1203: Use lazy % formatting in logging functions (logging-fstring-interpolation)
+inventory_system_fixed.py:123:8: W1203: Use lazy % formatting in logging functions (logging-fstring-interpolation)
+
+-----------------------------------
+Your code has been rated at 7.28/10
+
